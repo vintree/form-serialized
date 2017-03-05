@@ -1,0 +1,24 @@
+{
+  "name": "form-serialized",
+  "version": "1.0.1",
+  "description": "Form serialization tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuguzi/form-serialized.git"
+  },
+  "keywords": [
+    "form-serialized",
+    "serialized",
+    "serialize"
+  ],
+  "author": "puxiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuguzi/form-serialized/issues"
+  },
+  "homepage": "https://github.com/wuguzi/form-serialized#readme"
+}
